@@ -1,0 +1,24 @@
+// notes on indigenous and white subject headigngs \\
+
+indigenous terms searched:
+indigenous
+american indian
+indian
+native american
+
+white terms searched:
+white
+caucasian
+
+
+i am struck by the number of results returned when searching for white (724) as opposed to indigenous (120), and I realize that is because white is a much broader term that can be applied as a color or a descriptor for a species of tree or animal or a place name (including an Indigenous reservation). But the power to name is real, and this imbalance might mean something.
+
+I decided purposefully not to include reservations in the Indigenous subject heading list because then logically I would need to include every "white" related place subject heading as well for comparison.
+
+I did not include Indigenous communities or related subject headings from outside the US.
+
+The coverage of the library in terms of separate Indian tribes is extensive: a search for Indians returned 4,362 subject headings. I did not include these in the comparison as I thought I would then have to include the various ethnic groups from which the term "white" originates, but it is worth noting their extensive collection. Similarly a search for "Indians" returned 1,975 results, but I limited the selected subject headings to those that did not focus on a specific region.
+
+Although the numbers of terms might be the same, the differences in types of terms is striking: for example there are heading for middle class whites, white parents, white teachers, white clergy, etc; while there are no such general descriptive headings for Indigenous subjects: these are based much more in ethnography than daily life. There is no middle class indigenous subject heading.
+
+Also notably there were at least 4 different subject headings for white supremacy type movements in the white list, but nothing of the sort in the Indigenous list.
